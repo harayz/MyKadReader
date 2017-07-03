@@ -1,7 +1,8 @@
-# cardreadergui
-Read and Display MyKad details
+# MyKadReader
+Display and parse available information on MyKad into database for simple record keeping purposes such as attendance log and membership registration form.
 
-// TO DO
-1. store info including snapshots
-2. cross refferencing database
-3. dossier builder
+// HARDWARE
+NFC Reader
+Smartcard Reader
+
+// SOFTWARE
